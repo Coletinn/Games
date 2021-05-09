@@ -1,1 +1,3 @@
-# Games
+- Jogo da forca
+- Batalha naval
+- Jogo da velha
